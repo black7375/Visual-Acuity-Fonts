@@ -1,0 +1,16 @@
+** Font Info
+
+[[https://user-images.githubusercontent.com/25581533/93720107-72441a80-fb76-11ea-8a60-bb2c95c80698.gif]]
+
+[[https://radagast.ca/snellen/snellen.html][Snellen]] is  a digital version of the [[https://en.wikipedia.org/wiki/Snellen_chart][classic optometric eye chart]]. Snellen supports the original ten snellen glyphs and the more modern Sloan glyphs. The Snellen glyphs are presented according to the original lines (20/200, 20/160, etc). Sloan glyphs are presented by increments of 0.1 LogMAR from 1.0 to -0.3. The glyphs conform to the original mathematical properties of the standard optotypes.
+
+Snellen runs on a linux PC and may be controlled by a keyboard or a
+remote control.
+
+Snellen is [[https://www.gnu.org/philosophy/free-sw.html][Free Software]]. Snellen is "owned" by the community of people who use it. You may download, use and copy snellen. But if you make changes to snellen you must contribute your changes back to the community.
+
+Snellen version 1.1 is now available for download. The snellen truetype font and sloan truetype font are available for free download and may be used in accordance with the [[https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL][SIL Open Font License]].
+
+[[https://user-images.githubusercontent.com/25581533/93720184-031af600-fb77-11ea-9e30-5382dd7300dd.png]]
+
+(c) 2009 Andrew Howlett
