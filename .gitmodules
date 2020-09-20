@@ -1,0 +1,6 @@
+[submodule "eye-chart-fonts"]
+	path = eye-chart-fonts
+	url = https://github.com/denispelli/Eye-Chart-Fonts.git
+[submodule "optician-sans"]
+	path = optician-sans
+	url = https://github.com/anewtypeofinterference/Optician-Sans.git
