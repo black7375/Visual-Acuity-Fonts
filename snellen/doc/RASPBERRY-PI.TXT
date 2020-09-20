@@ -1,0 +1,42 @@
+/** ----------------
+    Raspberry pi
+    ---------------- **/
+
+Edit /boot/config.txt, enable these lines:
+
+framebuffer_width=1920
+framebuffer_height=1080
+framebuffer_depth=16
+
+
+
+
+Add this TO THE BEGINNING of /etc/fb.modes:
+
+
+mode "1920x1080"
+  geometry 1920 1080 1920 1080 16
+  timings 0 0 0 0 0 0 0
+  rgba 5/11,6/5,5/0,0/16
+endmode
+
+
+
+
+Edit /etc/directfbrc (create the file if it doesn't exist):
+
+system=fbdev
+autoflip-window
+desktop-buffer-mode=auto
+vt-switching
+graphics-vt
+no-deinit-check
+no-motion-compression
+no-translucent-windows
+memcpy=arm
+mode=1920x1080
+depth=16
+dma
+hardware
+cursor
+
