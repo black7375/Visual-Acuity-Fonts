@@ -1,0 +1,98 @@
+#+TITLE: [[http://mkweb.bcgsc.ca/snellen-optotype-font/][SnellenMK - Snellen Optotype Font with Upper and Lowercase characters]]
+
+| [[https://user-images.githubusercontent.com/25581533/93721966-e8e71500-fb82-11ea-8613-8f7563c0ba5a.png]] | [[https://user-images.githubusercontent.com/25581533/93723397-ce666900-fb8d-11ea-986b-c5a1145d0eff.png]] | [[https://user-images.githubusercontent.com/25581533/93721968-eb496f00-fb82-11ea-97e1-30ec439b792f.png]] |
+|------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------|
+| ▲ SnellenMK optotype font. Uppercase, lowercase and symbols to test your eyes.                      | ▲ SnellenMK optotype font. Uppercase, lowercase and symbols to test your eyes.                      | ▲ SnellenMK optotype font. Uppercase, lowercase and symbols to test your eyes.                      |
+
+In the process of designing my [[http://mkweb.bcgsc.ca/typography/eyecharts.mhtml][Snellen Eye Chart typographical posters]], I came across the Snellen font by Andrew Howlett. I wasn't happy with all the letters, so I made attempts at giving the font an update. I call this redesign "Snellen MK", to avoid conflict with Howlett's "Snellen".
+
+Not being a font designer, I will likely get myself into trouble.
+
+
+** snellen chart posters
+While making my [[http://mkweb.bcgsc.ca/typography/eyecharts.mhtml][Snellen chart series]], I entered the rabbit hole of optotype fonts ... and I can't get out!
+
+| [[https://user-images.githubusercontent.com/25581533/93722377-e89c4900-fb85-11ea-8492-b0c65517341d.png]]                                                                                                                                                   | [[https://user-images.githubusercontent.com/25581533/93722374-e2a66800-fb85-11ea-8ee6-8b79e60eda54.png]]                                   |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------|
+| ▲ A technically accurate Snellen chart using four genetic bases A T G C rendered as optotypes. The chart begins with the start codon ATG and ends in the stop codon TGA, which appears only once in the chart. Print at 16 in × 24 in. ([[https://fineartamerica.com/featured/snellen-chart-genetic-sequence-martin-krzywinski.html][BUY ARTWORK]]) | ▲ A technically accurate Snellen chart using the nautical flag alphabet rendered as optotypes. Print at 16 in × 24 in. ([[https://fineartamerica.com/featured/snellen-chart-nautical-flags-martin-krzywinski.html][BUY ARTWORK]]) |
+
+The charts don't necessarily use the latest version of my Snellen font design, which fluctuates as my mood about some of the letters changes.
+
+** optotype fonts
+The [[https://en.wikipedia.org/wiki/Snellen_chart][optotype requirement]] is that letters be designed on a 5 × 5 grid, and have constant stroke width. This means that both lower and upper case letters need to share the grid and stroke. To stay compatible with the eyechart paradigm, letters should be as obvious as possible.
+
+Lorrie Frear's article [[https://ilovetypography.com/2015/07/12/what-are-optotypes-eye-charts-fonts/][What are Optotypes? Eye Charts in Focus]] is a great read about optotypes and eye charts.
+
+** Snellen Optotype Letter Design
+*** uppercase
+The uppercase letter design uses [[https://en.wikipedia.org/wiki/Herman_Snellen][Herman Snellen's]] original chart as inspiration.
+
+I have modified the design by Andrew Howlett (see below) for some letters. All the changes are relatively minor: more serifs and consistent stroke width for bars on R and K.
+
+*** lowercase
+The lowercase characters should be considered experimental.
+
+The progress of my redesign is shown below. I would *greatly appreciate feedback and suggestions!*
+
+
+** Change Log
+*** version v7.002 11-Jul-2019
+Tidied all letter forms with Fontlab 6.
+
+[[https://user-images.githubusercontent.com/25581533/93723138-93633600-fb8b-11ea-86a0-c4922a404394.png]]
+▲ Snellen optotype font (version v7.002 11-Jul-2019) that includes both upper and lower case characters, along with most punctuation and some symbols. Based on design by Andrew Howlett.
+
+*** version 7 — 6 Feb 2017
+Fixed g and e. Thanks to Makeesha Fisher for suggestions.
+
+[[https://user-images.githubusercontent.com/25581533/93723144-a0802500-fb8b-11ea-913f-46def8c54fe2.png]]
+▲ Snellen optotype font (mk.v.7). Original design by Andrew Howlett (left) and my redesign (right), which includes both upper and lowercase letters as well as digits and symbols.
+
+*** version 6 — 5 Feb 2017
+Adjusted serifs on f, j, l, o, t to extend the full width of the grid. Added a lot more symbols.
+
+[[https://user-images.githubusercontent.com/25581533/93723154-b1309b00-fb8b-11ea-9ee3-063038578356.png]]
+▲ Snellen optotype font (mk.v.6). Original design by Andrew Howlett (left) and my redesign (right), which includes both upper and lowercase letters as well as digits and symbols.
+
+*** version 5 — 4 Feb 2017
+Added lowercase, digits and symbols.
+
+[[https://user-images.githubusercontent.com/25581533/93723157-baba0300-fb8b-11ea-96ba-aac9fe65b51d.png]]
+▲ Snellen optotype font (mk.v.5). Original design by Andrew Howlett (left) and my redesign (right), which includes both upper and lowercase letters as well as digits and symbols.
+
+*** version 4 — 23 Feb 2017
+Adding digits.
+
+[[https://user-images.githubusercontent.com/25581533/93723160-c60d2e80-fb8b-11ea-9b58-31f4062f3116.png]]
+▲ SnellenMK optotype font (mk.v.4). Original design by Andrew Howlett (left) and my redesign (right), which includes both upper and lowercase letters as well as digits.
+
+*** version 3 — 22 Feb 2017
+I'm exploring the lowercase characters. I don't know what I want to do with them. Make this into a more standard font in which lowercase letters are smaller, so that letters can fit their roles clearly when text is set in sentence case, or fill out the full optotype grid.
+
+[[https://user-images.githubusercontent.com/25581533/93723167-d58c7780-fb8b-11ea-9aba-761b1833595a.png]]
+▲ SnellenMK optotype font (mk.v.3). Original design by Andrew Howlett (left) and my redesign (right), which includes both upper and lowercase letters.
+
+*** version 2 — 22 Feb 2017
+Flushed out some inconsistencies in the uppercase characters. Added serifs to more letters.
+
+Now all the letters occuppy the full 5 × 5 grid, including the I, whose serifs were widened to allow this. While this new uppercase I isn't as pretty as the old one, it makes the entire typeface more consistent to its optotype roots.
+
+Still struggling with the G. In the original version, the descending stroke was cut off in the middle of a grid, which I didn't like.
+
+The S has been fixed—thanks to Elanor Lutz for feedback.
+
+I've color coded the characters slightly differently, drawing attention to ones that I feel need more thought.
+
+The lowercase characters aren't color coded (yet) because ... most of them need help. Primarily, I'm vacillating between making them fill the full size of the 5 × 5 square, just like the uppercase characters, and keeping them confined to a 4 × 4 square, which incurs loss of legibility. If I make the letters the same size, it will be impossible to distinguish lowercase and uppercase characters some cases (e.g. c, i). Perhaps this is desired? 
+
+[[https://user-images.githubusercontent.com/25581533/93723168-dfae7600-fb8b-11ea-8548-bf8c1dbf0d3c.png]]
+▲ SnellenMK optotype font (mk.v.2). Original design by Andrew Howlett (left) and my redesign (right), which includes both upper and lowercase letters.
+
+*** version 1 — 22 Feb 2017
+First attempt at lowercase characters.
+
+[[https://user-images.githubusercontent.com/25581533/93723172-eb01a180-fb8b-11ea-919d-ba5715a21410.png]]
+▲ SnellenMK optotype font (mk.v.1). Original design by Andrew Howlett (left) and my redesign (right), which includes both upper and lowercase letters.
+
+** LICENSE
+© 1999–2020 [[http://mkweb.bcgsc.ca/][Martin Krzywinski]] | [[martink@bcgsc.ca][contact]] | [[https://www.bcgsc.ca/][Genome Sciences Centre]] ⊂ [[https://www.bccrc.ca/][BC Cancer Research Center]] ⊂ [[http://www.bccancer.bc.ca/][BC Cancer]]

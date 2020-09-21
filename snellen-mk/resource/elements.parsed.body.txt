@@ -1,0 +1,60 @@
+ O          Oxygen   0.2 6.500000e-01
+ C          Carbon   0.7 1.800000e-01
+ H        Hydrogen   1.0 1.000000e-01
+ N        Nitrogen   1.5 3.000000e-02
+Ca         Calcium   1.9 1.400000e-02
+ P      Phosphorus   2.0 1.100000e-02
+ K       Potassium   2.6 2.500000e-03
+ S          Sulfur   2.6 2.500000e-03
+Na          Sodium   2.8 1.500000e-03
+Cl        Chlorine   2.8 1.500000e-03
+Mg       Magnesium   3.3 5.000000e-04
+Fe            Iron   4.2 6.000000e-05
+ F        Fluorine   4.4 3.700000e-05
+Zn            Zinc   4.5 3.200000e-05
+Si         Silicon   4.7 2.000000e-05
+Zr       Zirconium   5.2 6.000000e-06
+Sr       Strontium   5.3 4.600000e-06
+Rb        Rubidium   5.3 4.600000e-06
+Br         Bromine   5.5 2.900000e-06
+Pb            Lead   5.8 1.700000e-06
+Nb         Niobium   5.8 1.600000e-06
+La       Lanthanum   5.9 1.370000e-06
+Cu          Copper   6.0 1.000000e-06
+Al       Aluminium   6.1 8.700000e-07
+Cd         Cadmium   6.1 7.200000e-07
+ B           Boron   6.2 6.900000e-07
+Ce          Cerium   6.2 5.700000e-07
+Ba          Barium   6.5 3.100000e-07
+As         Arsenic   6.6 2.600000e-07
+ V        Vanadium   6.6 2.600000e-07
+Sn             Tin   6.6 2.400000e-07
+Se        Selenium   6.7 1.900000e-07
+Hg         Mercury   6.7 1.900000e-07
+Mn       Manganese   6.8 1.700000e-07
+ I          Iodine   6.8 1.600000e-07
+Ni          Nickel   6.9 1.400000e-07
+Ti        Titanium   6.9 1.300000e-07
+Mo      Molybdenum   6.9 1.300000e-07
+Te       Tellurium   6.9 1.200000e-07
+Sb        Antimony   7.0 1.100000e-07
+Ge       Germanium   7.1 7.575758e-08
+Li         Lithium   7.5 3.100000e-08
+Cr        Chromium   7.6 2.400000e-08
+Cs          Cesium   7.7 2.100000e-08
+Co          Cobalt   7.7 2.100000e-08
+Ga         Gallium   8.0 1.060606e-08
+Ag          Silver   8.0 1.000000e-08
+ Y         Yttrium   8.0 9.090909e-09
+Bi         Bismuth   8.1 7.575758e-09
+Tl        Thallium   8.1 7.575758e-09
+In          Indium   8.2 6.060606e-09
+Ta        Tantalum   8.5 3.030303e-09
+Sc        Scandium   8.5 3.030303e-09
+Au            Gold   8.5 3.000000e-09
+Th         Thorium   8.8 1.515152e-09
+ U         Uranium   8.8 1.515152e-09
+Sm        Samarium   9.1 7.575758e-10
+Be       Beryllium   9.3 5.454545e-10
+ W        Tungsten   9.5 3.030303e-10
+Ra          Radium  15.3 4.545455e-16

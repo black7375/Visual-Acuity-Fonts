@@ -1,0 +1,47 @@
+             Tp                  Planck temperature  32.2 1.417000e+32 K
+             n0                  Loschmidt constant  25.4 2.687000e+25 1/m^3
+             NA                   avogadro's number  23.8 6.022000e+23 1/mol
+             KJ                  Josephson constant  14.7 4.836000e+14 Hz/V
+      GF/hbarc3             Fermi coupling constant  14.7 4.544000e+14 1/J^2
+             ke                  Coulomb's constant  10.0 8.988000e+09 N·m^2/C^2
+              c                      speed of light   8.5 2.997925e+08 m/s^2
+           Rinf                    Rydberg constant   7.0 1.097373e+07 1/m
+            atm                 standard atmosphere   5.0 1.013250e+05 Pa
+              F                    Faraday constant   5.0 9.648533e+04 C/mol
+             RK               von Klitzing constant   4.4 2.581281e+04 ohm
+             Z0                   char imped vacuum   2.6 3.767300e+02 ohm
+             gn    standard acceleration of gravity   1.0 9.806650e+00 m/s^2
+              R                        gas constant   0.9 8.314000e+00 J/(K·mol)
+         thetaW                   weak mixing angle  -0.3 5.026710e-01 
+             Vm           molar volume of ideal gas  -1.6 2.242000e-02 m^3/mol
+             c2           second radiation constant  -1.8 1.439000e-02 m·K
+          alpha             fine-structure constant  -2.1 7.297000e-03 
+              b              Wien disp law constant  -2.5 2.898000e-03 m·K
+             G0                 conductance quantum  -4.1 7.748000e-05 S
+            mu0                   magnetic constant  -5.9 1.257000e-06 V·s/(A·m)
+          sigma            Stefan-Boltzman constant  -7.2 5.670000e-08 W/(m^2·K^4)
+             mP                         Planck mass  -7.7 2.176000e-08 kg
+         A0star                       Angstrom star -10.0 1.000000e-10 m
+              G             constant of gravitation -10.2 6.674000e-11 m^3/(kg·s^2)
+             a0                         Bohr radius -10.3 5.292000e-11 m
+             e0                   electric constant -11.1 8.854000e-12 F/m
+       lambda_C                  compton wavelength -11.6 2.426000e-12 
+             re           classical electron radius -14.6 2.818000e-15 m
+           phi0               magnetic flux quantum -14.7 2.068000e-15 Wb
+             c1            first radiation constant -15.4 3.742000e-16 W·m^2
+             Eh                      Hartree energy -17.4 4.360000e-18 J
+             H0                     Hubble constant -17.7 2.195000e-18 1/s
+              e                   elementary charge -18.8 1.602000e-19 C
+              k                  Boltzmann constant -22.9 1.381000e-23 J/K
+            muB                       Bohr magneton -23.0 9.274000e-24 J/T
+            muN                    nuclear magneton -26.3 5.051000e-27 J/T
+             mn                        neutron mass -26.8 1.675000e-27 kg
+             mp                         proton mass -26.8 1.673000e-27 kg
+            m_u                atomic mass constant -26.8 1.661000e-27 kg
+         sigmaT               Thomson cross section -28.2 6.652000e-29 m^2
+             me                       electron mass -30.0 9.109000e-31 kg
+              h                     Planck constant -33.2 6.626000e-34 J·s
+           hbar             reduced Planck constant -34.0 1.055000e-34 J·s
+             lP                       Planck length -34.8 1.616000e-35 m
+             tP                         Planck time -43.3 5.391000e-44 s
+         Lambda               cosmological constant -51.9 1.190000e-52 1/m^2

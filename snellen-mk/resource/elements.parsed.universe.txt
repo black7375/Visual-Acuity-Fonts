@@ -1,0 +1,83 @@
+ H        Hydrogen   0.1 7.500000e-01
+He          Helium   0.6 2.300000e-01
+ O          Oxygen   2.0 1.000000e-02
+ C          Carbon   2.3 5.000000e-03
+Ne            Neon   2.9 1.300000e-03
+Fe            Iron   3.0 1.100000e-03
+ N        Nitrogen   3.0 1.000000e-03
+Si         Silicon   3.2 7.000000e-04
+Mg       Magnesium   3.2 6.000000e-04
+ S          Sulfur   3.3 5.000000e-04
+Ar           Argon   3.7 2.000000e-04
+Ca         Calcium   4.2 7.000000e-05
+Ni          Nickel   4.2 6.000000e-05
+Al       Aluminium   4.3 5.000000e-05
+Na          Sodium   4.7 2.000000e-05
+Cr        Chromium   4.8 1.500000e-05
+Mn       Manganese   5.1 8.000000e-06
+ P      Phosphorus   5.2 7.000000e-06
+Ti        Titanium   5.5 3.000000e-06
+ K       Potassium   5.5 3.000000e-06
+Co          Cobalt   5.5 3.000000e-06
+ V        Vanadium   6.0 1.000000e-06
+Cl        Chlorine   6.0 1.000000e-06
+ F        Fluorine   6.4 4.000000e-07
+Zn            Zinc   6.5 3.000000e-07
+Ge       Germanium   6.7 2.000000e-07
+Cu          Copper   7.2 6.000000e-08
+Zr       Zirconium   7.3 5.000000e-08
+Sr       Strontium   7.4 4.000000e-08
+Kr         Krypton   7.4 4.000000e-08
+Sc        Scandium   7.5 3.000000e-08
+Se        Selenium   7.5 3.000000e-08
+Rb        Rubidium   8.0 1.000000e-08
+Ba          Barium   8.0 1.000000e-08
+Nd       Neodymium   8.0 1.000000e-08
+Pb            Lead   8.0 1.000000e-08
+Ga         Gallium   8.0 1.000000e-08
+Ce          Cerium   8.0 1.000000e-08
+Xe           Xenon   8.0 1.000000e-08
+Te       Tellurium   8.0 9.000000e-09
+As         Arsenic   8.1 8.000000e-09
+Br         Bromine   8.2 7.000000e-09
+ Y         Yttrium   8.2 7.000000e-09
+Li         Lithium   8.2 6.000000e-09
+Mo      Molybdenum   8.3 5.000000e-09
+Pt        Platinum   8.3 5.000000e-09
+Sm        Samarium   8.3 5.000000e-09
+Sn             Tin   8.4 4.000000e-09
+Ru       Ruthenium   8.4 4.000000e-09
+Os          Osmium   8.5 3.000000e-09
+Dy      Dysprosium   8.7 2.000000e-09
+Ir         Iridium   8.7 2.000000e-09
+Er          Erbium   8.7 2.000000e-09
+La       Lanthanum   8.7 2.000000e-09
+Gd      Gadolinium   8.7 2.000000e-09
+Nb         Niobium   8.7 2.000000e-09
+Cd         Cadmium   8.7 2.000000e-09
+Yb       Ytterbium   8.7 2.000000e-09
+Pr    Praseodymium   8.7 2.000000e-09
+Pd       Palladium   8.7 2.000000e-09
+ I          Iodine   9.0 1.000000e-09
+Be       Beryllium   9.0 1.000000e-09
+Hg         Mercury   9.0 1.000000e-09
+ B           Boron   9.0 1.000000e-09
+Cs          Cesium   9.1 8.000000e-10
+Hf         Hafnium   9.2 7.000000e-10
+Bi         Bismuth   9.2 7.000000e-10
+Ag          Silver   9.2 6.000000e-10
+Rh         Rhodium   9.2 6.000000e-10
+Au            Gold   9.2 6.000000e-10
+ W        Tungsten   9.3 5.000000e-10
+Tb         Terbium   9.3 5.000000e-10
+Ho         Holmium   9.3 5.000000e-10
+Eu        Europium   9.3 5.000000e-10
+Tl        Thallium   9.3 5.000000e-10
+Th         Thorium   9.4 4.000000e-10
+Sb        Antimony   9.4 4.000000e-10
+In          Indium   9.5 3.000000e-10
+Re         Rhenium   9.7 2.000000e-10
+ U         Uranium   9.7 2.000000e-10
+Lu        Lutetium  10.0 1.000000e-10
+Tm         Thulium  10.0 1.000000e-10
+Ta        Tantalum  10.1 8.000000e-11
