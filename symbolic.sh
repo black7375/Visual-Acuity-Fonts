@@ -125,7 +125,7 @@ function relative-origin-path() {
   echo "${origin_path}"
 }
 
-function symbolic-link() {
+function symlink() {
   local origin=$1
   local target=$2
 
@@ -142,16 +142,16 @@ function symbolic-link() {
   fi
 }
 
-function symbolic-generator() {
+function symlink-generator() {
   local -n source=$1
 
   for (( i = 0; i<${#source[@]}; i++ )); do
-    symbolic-link ${source[i]} ${source[i+1]}
+    symlink ${source[i]} ${source[i+1]}
     ((i+=1))
   done
 }
 
 ## == Symbolic Generating ======================================================
 for source in ${SOURCES[@]}; do
-    symbolic-generator $source
+    symlink-generator $source
 done
