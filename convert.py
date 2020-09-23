@@ -1,7 +1,11 @@
 from os import listdir
 from os.path import isfile, join, islink, splitext
 from fontTools.ttLib import TTFont
+from fontTools.ttLib import sfnt   # for Zopfli
 import fontforge
+
+# Use Zopfli
+sfnt.USE_ZOPFLI = True
 
 # target => otf ttf
 # converted => otf ttf woff woff2
