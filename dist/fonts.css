@@ -1,0 +1,72 @@
+/* Webfont: OpticianSans-Regular */
+@font-face {
+  font-family: 'Optician-Sans';
+  font-style:     normal;
+  font-weight:    normal;
+  font-display:   swap;
+  text-rendering: optimizeLegibility;
+  src: url('Optician-Sans.woff2') format('woff2'),  /* Super Modern Browsers  */
+       url('Optician-Sans.woff') format('woff'),    /* Pretty Modern Browsers */
+       url('Optician-Sans.ttf') format('truetype'); /* Safari, Android, iOS   */
+}
+
+
+/* Webfont: Pelli-Regular */
+@font-face {
+  font-family: 'Pelli';
+  font-style:     normal;
+  font-weight:    normal;
+  font-display:   swap;
+  text-rendering: optimizeLegibility;
+  src: url('Pelli.woff2') format('woff2'),  /* Super Modern Browsers  */
+       url('Pelli.woff') format('woff'),    /* Pretty Modern Browsers */
+       url('Pelli.ttf') format('truetype'); /* Safari, Android, iOS   */
+}
+
+/* Webfont: SloanLetter-Regular */
+@font-face {
+  font-family: 'Sloan-Letter';
+  font-style:     normal;
+  font-weight:    normal;
+  font-display:   swap;
+  text-rendering: optimizeLegibility;
+  src: url('Sloan-Letter.woff2') format('woff2'),  /* Super Modern Browsers  */
+       url('Sloan-Letter.woff') format('woff'),    /* Pretty Modern Browsers */
+       url('Sloan-Letter.ttf') format('truetype'); /* Safari, Android, iOS   */
+}
+
+/* Webfont: Sloan-Regular */
+@font-face {
+  font-family: 'Sloan';
+  font-style:     normal;
+  font-weight:    normal;
+  font-display:   swap;
+  text-rendering: optimizeLegibility;
+  src: url('Sloan.woff2') format('woff2'),  /* Super Modern Browsers  */
+       url('Sloan.woff') format('woff'),    /* Pretty Modern Browsers */
+       url('Sloan.ttf') format('truetype'); /* Safari, Android, iOS   */
+}
+
+/* Webfont: Snellen-Regular */
+@font-face {
+  font-family: 'Snellen';
+  font-style:     normal;
+  font-weight:    normal;
+  font-display:   swap;
+  text-rendering: optimizeLegibility;
+  src: url('Snellen.woff2') format('woff2'),  /* Super Modern Browsers  */
+       url('Snellen.woff') format('woff'),    /* Pretty Modern Browsers */
+       url('Snellen.ttf') format('truetype'); /* Safari, Android, iOS   */
+}
+
+/* Webfont: SnellenMK-Regular */
+@font-face {
+  font-family: 'SnellenMK';
+  font-style:     normal;
+  font-weight:    normal;
+  font-display:   swap;
+  text-rendering: optimizeLegibility;
+  src: url('SnellenMK.woff2') format('woff2'),  /* Super Modern Browsers  */
+       url('SnellenMK.woff') format('woff'),    /* Pretty Modern Browsers */
+       url('SnellenMK.ttf') format('truetype'); /* Safari, Android, iOS   */
+}
