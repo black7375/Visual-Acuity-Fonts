@@ -1,5 +1,5 @@
 {
-  "name": "visual-acuity-fonts",
+  "name": "@black7375/visual-acuity-fonts",
   "description": "This project was created to collect fonts for visual acuity(eye chart) and provide them to we environment.",
   "version": "1.0.0",
   "main": "./dist/fonts.css",
