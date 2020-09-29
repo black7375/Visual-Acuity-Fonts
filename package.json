@@ -20,7 +20,14 @@
     "snellen",
     "snellenmk"
   ],
-  "author": "",
+  "contributors": [
+    "black7375 <alstjr7375@daum.net>",
+    "ANTI Hamar <hamar@anti.as> (https://www.instagram.com/anti_hamar/)",
+    "Fábio Duarte Martins (https://github.com/scannerlicker)",
+    "Denis G. Pelli",
+    "Andrew Howlett",
+    "Martin Krzywinsk <martink@bcgsc.ca>"
+  ],
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/black7375/Visual-Acuity-Fonts/issues"
