@@ -1,6 +1,16 @@
 # Visual Acuity Fonts
 This project was created to collect fonts for [visual acuity](https://en.wikipedia.org/wiki/Visual_acuity)([eye chart](https://en.wikipedia.org/wiki/Eye_chart)) and provide them to the web environment.
 
+## Usage
+
+Each `font-family` follow:
+- `Optician-Sans`
+- `Pelli`
+- `Sloan-Letter`
+- `Sloan`
+- `Snellen`
+- `SnellenMK`
+
 ## Clone
 
 ```shell
